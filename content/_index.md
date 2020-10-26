@@ -9,7 +9,7 @@ I'm currently a high school student with a deep interest in computer science and
 I usually go by the username TexanElite on the internet.<br>
 
 You can contact me or see my profile on these links, or check out my [resume](/resume.pdf).
-- Email: [sidh@suchdev.com]("mailto:sidh@suchdev.com")
-- Github: [TexanElite]("https://github.com/TexanElite")
+- Email: <a href="mailto:sidh@suchdev.com">sidh@suchdev.com</a>
+- Github: <a href="https://github.com/TexanElite">TexanElite</a>
 - Discord: TexanElite#0075
-- Codeforces: [TexanElite]("https://codeforces.com/profile/TexanElite")
+- Codeforces: <a href="https://codeforces.com/profile/TexanElite">TexanElite</a>
