@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <title> Sidh Suchdev </title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+    </head>
+
+    <body class="is-family-monospace">
+        <nav class="navbar is-black" role="navigation" aria-label="main navigation">
+            <div class="navbar-start is-size-3">
+                <a href="/" class="navbar-item">
+                    Sidh Suchdev
+                </a>
+            </div>
+            <div class="navbar-menu">
+                <div class="navbar-start">
+                    <a href="/" class="navbar-item">
+                        Home
+                    </a>
+                    <a href="/resume.pdf" class="navbar-item">
+                        Resume
+                    </a>
+                </div>
+            </div>
+        </nav>
+        <section class="section">
+            <div class="container">
+                {% block content %}
+                {% endblock %}
+            </div>
+        </section>
+    </body>
+</html>
