@@ -1,6 +1,6 @@
 var currentCharacterIndex = 0;
 var currentStringIndex = 0;
-var arrayOfStrings = ["Computer Science Student", "Software Engineer", "Mathematics Student", "Cybersecurity Engineer"];
+var arrayOfStrings = ["Computer Science Student", "Software Engineer", "Cybersecurity Engineer"];
 var writingSpeed = 50;
 var deletingSpeed = 30;
 
@@ -35,4 +35,6 @@ function deleteDescription() {
     }
 }
 
-writeDescription();
+window.addEventListener('load', function() { 
+    writeDescription();
+}, false);
